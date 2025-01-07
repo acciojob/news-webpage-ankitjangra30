@@ -55,6 +55,7 @@ img{
     color: white;
     text-align: center;
     padding: 20px;
+	align-self: center;
 }
 
 /* Style the body */
